@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GHEMID-Mohamed
 - 👀 I’m interested in sotfware development
 - 🌱 I’m currently learning software architecture
-- 💞️ I’m looking to collaborate on high complex apps
+- 💞️ I’m looking to collaborate on high complex projects
 - 📫 How to reach me : ghemid.mohamed@hotmail.com
 
 <!---
